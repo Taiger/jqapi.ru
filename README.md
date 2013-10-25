@@ -1,6 +1,6 @@
-# jQuery API Cheatsheet
+# jQuery 1.8 API Cheatsheet
 
-Enjoy sigle-page jQuery API Cheatseet by [Future Colors].
+Single page jQuery API Cheatseet by [Future Colors].
 
 This repo is powering http://jqapi.ru site.
 
