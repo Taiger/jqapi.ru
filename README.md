@@ -2,9 +2,13 @@
 
 Single page jQuery API Cheatseet by [Future Colors].
 
-This repo is powering http://jqapi.ru site.
+Forked to preserve version 1.8 because, lets face it, this the best jquery cheatsheet that ever was!
+(At this time of writing.. Drupal 7 is upgradable to version 1.8 and not beyond :()
 
-Contributions are welcome.
+
+Original repo is powering http://jqapi.ru site.
+
+
 
 ## Goals
 
